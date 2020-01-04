@@ -148,3 +148,10 @@ footer > h3 {
     -moz-text-shadow: 1px 2px 3px #000;
     text-shadow: 1px 2px 3px #000;
 }
+
+footer > h3 > a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #000;
+}
